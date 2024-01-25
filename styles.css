@@ -390,6 +390,18 @@ body {
     display: inline-block;
 }
 
+.desarrollo {
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    background-color: #1f1f1f;
+    font-size: 20px;
+}
+
+.desarrollo p > a {
+    color:coral;
+}
+
 /*MODO MOBILE*/
 
 @media(max-width: 991px) {
